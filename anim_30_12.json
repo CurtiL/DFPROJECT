@@ -16,7 +16,6 @@
           },
           "event": {
             "type": "show",
-            "data": "",
             "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
           }
         },
