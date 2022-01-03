@@ -1,0 +1,2385 @@
+{
+  "context": {
+    "assetTrail": "false",
+    "UnitOfMeasureScale": 0.01,
+    "RepoAnim": "https://curtil.github.io/DFPROJECT/"
+  },
+  "nodes": [
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_01",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_01",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "0"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "6508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "2412508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "2452100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "2464100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "3682100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "9748100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "6126100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "6188100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "7427100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "7454100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "17270100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "9928100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "9985100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "10009100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "22366100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "12495100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "12540100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "13776100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "14996100"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_01_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "15002100"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_02",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_02",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "4915"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "14932508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "32260508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "17406615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "17427615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "18642615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "39660615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "21104615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "21178615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "22414615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "22435615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "47224615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "24927615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "24972615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "25002615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "52344615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "27509615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "27551615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "28793615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "30019615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_02_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "30025615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_03",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_03",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "9964"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "29951508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "62294508"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "31184615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "31199615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "32420615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "67208615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "34891615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "34980615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "36210615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "36237615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "74820615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "38726615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "38777615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "38813615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "79958615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "41314615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "41362615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "42601615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "43830615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_03_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "43836615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_04",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_04",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "15887"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "43759887"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "89905887"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "45007615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "45034615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "46255615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "94870615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "48738615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "48824615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "50054615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "50087615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "102512615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "52594615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "52645615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "52675615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "107674615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "55179615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "55227615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "56463615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "57689615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_04_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "57695615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_05",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_05",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "21330"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "57616330"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "117613330"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "58887615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "58908615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "60141615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "122634615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "62621615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "62719615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "63955615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "63994615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "130318615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "66501615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "66552615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "66582615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "135480615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "69080615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "69122615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "70346615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "71572615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_05_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "71578615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_06",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_06",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "28382"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "71498382"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "145370382"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "72788615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "72818615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "74042615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "150428615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "76534615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "76644615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "77880615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "77919615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "158160615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "80426615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "80477615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "80501615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "163310615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "82981615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "83023615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "84241615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "85467615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_06_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "85473615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_07",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_07",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "33535"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "85390535"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "173149535"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "86734615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "86770615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "88000615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "178336615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "90504615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "90614615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "91850615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "91889615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "186092615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "94384615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "94423615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "94447615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "191194615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "96921615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "96963615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "98175615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "99395615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_07_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "99401615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_08",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_08",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "38854"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "99315854"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "200994854"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "100692615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "100734615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "101964615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "206256615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "104468615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "104578615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "105808615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "105841615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "213988615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "108324615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "108357615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "108381615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "219054615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "110843615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "110873615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "112085615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "113305615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_08_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "113311615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_09",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_09",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "43778"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "113222778"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "228803778"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "114629615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "114674615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "115904615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "234128615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "118408615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "118503615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "119727615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "119760615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "241818615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "122237615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "122264615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "122282615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "246848615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "124732615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "124756615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "125962615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "127176615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_09_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "127182615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    },
+    {
+      "name": "http://www.ontoeng.com/DFAssemblyLine#pallet_10",
+      "id": "http://www.ontoeng.com/DFAssemblyLine#pallet_10",
+      "actions": [
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "48827"
+          },
+          "event": {
+            "type": "show",
+            "data": "",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PPW01.WC1s_PalletPos"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "127090827"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PPW01_B01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B01.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "256534827"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_B01_PP01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP01.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "128548615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PP01_PI01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI01.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "128596615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PI01_R01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R01.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "129826615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_R01_B02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B02.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "261964615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_B02_PP02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP02.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "132315615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PP02_PP03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP03.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "132401615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PP03_PI02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI02.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "133625615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PI02_R02.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R02.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "133658615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_R02_B03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B03.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "269606615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_B03_PP04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP04.PPs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "136120615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PP04_PI03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI03.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "136138615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PI03_R03.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R03.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "136156615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_R03_B04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#B04.CB5_Pos1"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "274588615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_B04_PP05.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PP05.PP2s_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "138591615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PP05_PI04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#PI04.PIs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "138606615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_PI04_R04.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#R04.Rs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "139812615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_R04_C01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#C01.ICs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "141020615"
+          },
+          "event": {
+            "type": "animation",
+            "data": "REL2animation_pallet_10_C01_CB01.txt",
+            "placementRelTo": "http://www.ontoeng.com/DFAssemblyLine#CB01.CBs_PalletPosition"
+          }
+        },
+        {
+          "trigger": {
+            "type": "timestamp",
+            "data": "141026615"
+          },
+          "event": {
+            "type": "hide"
+          }
+        }
+      ]
+    }
+  ],
+  "bookmarks": [
+    {
+      "name": "bookmark_0",
+      "time": "0"
+    },
+    {
+      "name": "bookmark_1",
+      "time": "60000"
+    },
+    {
+      "name": "bookmark_2",
+      "time": "120000"
+    },
+    {
+      "name": "bookmark_3",
+      "time": "180000"
+    },
+    {
+      "name": "bookmark_4",
+      "time": "240000"
+    },
+    {
+      "name": "bookmark_5",
+      "time": "300000"
+    }
+  ]
+}
