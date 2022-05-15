@@ -1,0 +1,57 @@
+{
+    "context": {
+        "UnitOfMeasureScale": 0.01,
+        "Zup": false,
+        "RepoPath": "https://curtil.github.io/DFPROJECT/"
+    },
+    "assets": [
+        {
+            "id": "building",
+            "representations": [
+                {
+                    "File": "Warehouse.glb",
+                    "unit": 1
+                }
+            ]
+        },
+        {
+            "id": "Robot_Assem_CMSysLab",
+            "representations": [
+                {
+                    "File": "robotic_advanced.gltf",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                -26,
+                0,
+                0
+            ],
+            "placementRelTo": [
+                "building"
+            ]
+        }
+    ],
+    "scene": [
+        "hdrSkyBox",
+        "building",
+        "ground",
+        "Robot_Assem_CMSysLab",
+        "Base_assembly",
+        "R01_LINK_00",
+        "R01_LINK_01",
+        "R01_LINK_02",
+        "R01_LINK_03",
+        "R01_LINK_04",
+        "R01_LINK_05",
+        "R01_LINK_06",
+        "R02_LINK_00",
+        "R02_LINK_01",
+        "R02_LINK_02",
+        "R02_LINK_03",
+        "R02_LINK_04",
+        "R02_LINK_05",
+        "R02_LINK_06",
+        "R02_LINK_07"
+    ]
+}
